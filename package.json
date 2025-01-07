@@ -1,0 +1,16 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book store CRUD App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.721.0",
+    "pg": "^8.13.1"
+  },
+  "author": "Sunny SM",
+  "license": "ISC"
+}
